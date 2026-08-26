@@ -1,0 +1,7 @@
+{
+  "name": "CodeStudio",
+  "description": "Universal full-featured polyglot mobile IDE with multi-language execution, live web preview, Git source control, extensions, terminal shell, and project templates for every language and framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
